@@ -1,0 +1,20 @@
+/*.nav-bar{*/
+/*    display: flex;*/
+/*}*/
+
+.tab{
+    background-color: yellow;
+}
+
+.tab.extra{
+    background-color: blue;
+}
+
+#main-body{
+    display: flex;
+}
+
+#main-body > div{
+    padding: 10px;
+}
+
